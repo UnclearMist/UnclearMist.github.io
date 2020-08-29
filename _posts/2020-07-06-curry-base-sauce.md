@@ -4,7 +4,7 @@ title: Curry Base Sauce
 categories:
   - Indian
   - Curry
-featured_image: /UnclearMist/images/curry-base-sauce-img-2.jpg
+featured_image: /images/curry-base-sauce-img-2.jpg
 recipe:
   servings: 8-10
   prep: 10 minutes
@@ -34,6 +34,6 @@ recipe:
 
 A quick traditional curry base sauce recipe.
 
-![Base Sauce](/UnclearMist/images/curry-base-sauce-img-1.jpg)
+![Base Sauce](/images/curry-base-sauce-img-1.jpg)
 
 Vegetables simmering pre-blending.
