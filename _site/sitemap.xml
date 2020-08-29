@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/UnclearMist/indian/curry/2020/07/06/curry-base-sauce/</loc>
+<lastmod>2020-07-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/indian/curry/jodies%20favourites/2020/07/06/garlic-chilli-chicken/</loc>
+<lastmod>2020-07-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/indian/bread/jodies%20favourites/2020/07/06/garlic-naan-bread/</loc>
+<lastmod>2020-07-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/contact-success/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/UnclearMist/recipes/</loc>
+</url>
+</urlset>
