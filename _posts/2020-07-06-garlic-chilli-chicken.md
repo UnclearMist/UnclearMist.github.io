@@ -5,7 +5,7 @@ categories:
   - Indian
   - Curry
   - Jodies Favourites
-featured_image: /UnclearMist/images/garlic-chilli-chicken-img-1.png
+featured_image: /images/garlic-chilli-chicken-img-1.png
 recipe:
   servings: "4"
   prep: 10 minutes
