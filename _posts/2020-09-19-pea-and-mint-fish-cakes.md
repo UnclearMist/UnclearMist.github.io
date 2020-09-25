@@ -33,6 +33,7 @@ recipe:
     8. Serve however you like. I have served with a salad for this recipe, but you can improvise to your taste! Freeze the fish cakes you don't use today in a tupperware box.
 
 ---
+Recipe derived from the [Cook With M&S Recipe Book](https://www.marksandspencer.com/ie/c/food/cook-with-mands). 
 I've opted for a mixture of salmon, haddock and cod for my recipe but you can adjust to your taste.
 
 ![Fish Mixture](/images/fish-cakes-img-1.png)
