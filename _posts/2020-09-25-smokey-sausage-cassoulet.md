@@ -2,7 +2,7 @@
 date: 2020-09-25
 title: Smokey Sausage Cassoulet
 categories:
-  - Sausage
+  - Pork
   - One pots
 featured_image: /images/smokey-sausage-cassoulet-img-1.jpg
 recipe:
