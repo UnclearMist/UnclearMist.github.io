@@ -3,6 +3,8 @@ date: 2020-09-19
 title: Bolognese 
 categories:
   - Italian
+  - Beef
+  - Pasta
 featured_image: /images/Bolognese-img-1.jpg
 recipe:
   servings: 4
