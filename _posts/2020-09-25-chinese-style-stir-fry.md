@@ -1,6 +1,6 @@
 ---
 date: 2020-09-25
-title: Chines Style Stir Fry
+title: Chinese Style Stir Fry
 categories:
   - Chinese
 featured_image: /images/chinese-style-stirfry-tuna-img1.jpg
