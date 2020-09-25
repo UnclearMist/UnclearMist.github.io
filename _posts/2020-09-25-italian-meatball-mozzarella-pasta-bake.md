@@ -3,6 +3,8 @@ date: 2020-09-25
 title: Italian Meatball & Mozzarella Pasta Bake
 categories:
   - Italian
+  - Pasta
+  - Beef
 featured_image: /images/Italian-meatball-mozzarella-pasta-bake-img-1.jpg
 recipe:
   servings: 4
