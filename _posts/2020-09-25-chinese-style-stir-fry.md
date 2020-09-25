@@ -40,6 +40,6 @@ recipe:
     9. Add the sauce mixture and continue stirring and cooking for another 4-5 minutes or until hot. 
     10. Serve even mixtures into a bowl and place the tuna steaks on top. 
 ---
-
+Stir frying it up!
 ![Stir-frying it up!](/images/chinese-style-stirfry-tuna-img2.jpg)
 
