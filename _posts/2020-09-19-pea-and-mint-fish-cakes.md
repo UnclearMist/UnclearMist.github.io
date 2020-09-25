@@ -35,12 +35,12 @@ recipe:
 ---
 I've opted for a mixture of salmon, haddock and cod for my recipe but you can adjust to your taste.
 
-![Fish Mixture] (https://github.com/UnclearMist/UnclearMist.github.io/blob/gh-pages/images/fish-cakes-img-1.png)
+![Fish Mixture](/images/fish-cakes-img-1.png)
 
 Pea, mashed potatoes and mint mixture.
 
-![Pea, mash and mint mixture] (https://github.com/UnclearMist/UnclearMist.github.io/blob/gh-pages/images/fish-cakes-img-2.png)
+![Pea, mash and mint mixture](/images/fish-cakes-img-2.png)
 
 It can get a bit messy but they are so worth it! 
 
-![Cooking in progress] (https://github.com/UnclearMist/UnclearMist.github.io/blob/gh-pages/images/fish-cakes-img-3.png)
+![Cooking in progress](/images/fish-cakes-img-3.png)
