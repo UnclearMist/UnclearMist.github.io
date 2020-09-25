@@ -4,6 +4,7 @@ title: Meatball & Vegetable Tray Bake
 categories:
   - Italian
   - One pots
+  - Beef
 featured_image: /images/meatball-traybake-img-1.png
 recipe:
   servings: 2
