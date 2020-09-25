@@ -4,6 +4,7 @@ title: Chinese Style Stir Fry
 categories:
   - Chinese
   - Rice
+  - Fish
 featured_image: /images/chinese-style-stirfry-tuna-img1.jpg
 recipe:
   servings: 4
