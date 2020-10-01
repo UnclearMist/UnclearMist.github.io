@@ -49,12 +49,12 @@ recipe:
 ---
 The paste mixture consists of shallots, garlic, chillis, lemongrass, and ginger which adds so much flavour!
 
-![Rendang curry paste] (/images/beef-rendang-img-2)
+![Rendang curry paste](/images/beef-rendang-img-2)
 
 All of the ingredients ready to cook.
 
-![Rendang ingredients] (/images/beef-rendang-img-6)
+![Rendang ingredients](/images/beef-rendang-img-6)
 
 The paste and spices simmering away in coconut milk and water to soften the beef.
 
-![Simmering away] (/images/beef-rendang-img-5)
+![Simmering away](/images/beef-rendang-img-5)
