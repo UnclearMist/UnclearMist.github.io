@@ -38,5 +38,5 @@ recipe:
 ---
 Recipe derived from the [Cook With M&S Recipe Book](https://www.marksandspencer.com/ie/c/food/cook-with-mands). The barbecue gave the sausages a much more smokey flavour!
 
-![Fish Mixture](/images/smokey-sausage-cassoulet-img-2.jpg)
+![Smokey barbecue](/images/smokey-sausage-cassoulet-img-2.jpg)
 
