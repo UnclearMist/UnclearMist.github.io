@@ -5,7 +5,7 @@ categories:
   - Chinese
   - Rice
   - Fish
-featured_image: /images/chinese-veg-rice-basa.img-1.jpg
+featured_image: /images/chinese-veg-rice-basa-img-1.jpg
 recipe:
   servings: 2
   prep: 5 minutes
