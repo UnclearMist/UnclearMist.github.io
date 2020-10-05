@@ -1,6 +1,6 @@
 ---
 date: 2020-10-05
-title: Chinese Style Sautéed Vegetables with Rice and Basa
+title: Chinese Style Sautéed Vegetables with Rice and Basa fillet
 categories:
   - Chinese
   - Rice
