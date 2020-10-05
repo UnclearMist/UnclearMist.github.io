@@ -35,11 +35,11 @@ recipe:
     8. Lightly season with salt and serve.
 
 ---
-Chopped vegetables and sauce
+Prepared vegetables and sauce.
 
 ![Vegetables](/images/chinese-veg-rice-basa-img-2.jpg)
 
-All of the ingredients ready to cook.
+The vegetables don't need to be cooked long otherwise they will lose texture.
 
 ![Saute vegetables](/images/chinese-veg-rice-basa-img-3.jpg)
 
