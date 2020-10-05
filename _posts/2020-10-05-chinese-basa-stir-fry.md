@@ -5,7 +5,7 @@ categories:
   - Chinese
   - Rice
   - Fish
-featured_image: /images/chinese-veg-rice-basa.img-1
+featured_image: /images/chinese-veg-rice-basa-img-1.jpg
 recipe:
   servings: 2
   prep: 5 minutes
@@ -37,9 +37,9 @@ recipe:
 ---
 Chopped vegetables and sauce
 
-![Vegetables](/images/chinese-veg-rice-basa.img-2)
+![Vegetables](/images/chinese-veg-rice-basa.img-2.jpg)
 
 All of the ingredients ready to cook.
 
-![Saute vegetables](/images/chinese-veg-rice-basa.img-3)
+![Saute vegetables](/images/chinese-veg-rice-basa-img-3.jpg)
 
