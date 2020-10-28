@@ -4,7 +4,7 @@ title: One Pan Mexican Rice
 categories:
   - Rice
   - Mexican
-featured_image: /images/Mexican-rice-pan-img8
+featured_image: /images/Mexican-rice-pan-img8.jpg
   servings: 2-3
   prep: 10 minutes
   cook: 15 minutes
@@ -35,12 +35,12 @@ featured_image: /images/Mexican-rice-pan-img8
 
 We all need a quick meal on busy days
 
-![Old El Paso Rice Mix](/images/Mexican-rice-pan-img5)
+![Old El Paso Rice Mix](/images/Mexican-rice-pan-img5.jpg)
 
 Chopped vegetables and sauce
 
-![Chicken, Chorizo, onion, garlic, and peppers frying away](/images/Mexican-rice-pan-img3)
+![Chicken, Chorizo, onion, garlic, and peppers frying away](/images/Mexican-rice-pan-img3.jpg)
 
 Simmer all ingredients until the water has dissapated.
 
-![Saute vegetables](/images/Mexican-rice-pan-img4)
+![Saute vegetables](/images/Mexican-rice-pan-img4.jpg)
