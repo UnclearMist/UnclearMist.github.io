@@ -44,5 +44,5 @@ recipe:
 ---
 I prefer to use the slow cooker to simmer the chilli because it avoids burnt food at the bottom of the pan and you don't have to keep stirring it occassionally. 
 
-![Slow cooking] (images/vegan-chilli-img2.jpg)
+![Slow cooking] (/images/vegan-chilli-img2.jpg)
 
