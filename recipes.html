@@ -6,9 +6,17 @@ image_view: true
 
 
 
+<nav>
+	{% for category in site.categories %}
+		<a href=#{{ category[0] }}>{{ category[0] }}</a>
+	{% endfor %}
+</nav>
+
+
+
 {% if page.image_view %}
 	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
+		<h2 id={{ category[0] }}>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
