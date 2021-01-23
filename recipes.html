@@ -3,7 +3,14 @@ title: Recipes
 image_view: true
 ---
 
-<button type="button" class="collapsible">Categories</button>
+<button type="button" class="collapsible" onClick="(function(){
+	let content = getElementById('content');
+	if (content.style.display === 'block') {
+		content.style.display = 'none';
+	} else {
+		content.style.display === 'block';
+	}
+	})();">Categories</button>
 
 <div class="nav" id="content">
 	{% for category in site.categories %}
@@ -25,17 +32,3 @@ image_view: true
 		</div>
 	{% endfor %}
 {% endif %}
-
-<script>
-	let content = document.getElementById("content")
-	let button = documentgetElementByClassName("collapsible")
-	
-	button.addEventListener("click", function() {
-		this.classList.toggle("active");
-		if (content.style.display === "block") {
-			content.style.display = "none";
-		} else {
-			content.style.display = "block";
-		}
-	});
-</script>
