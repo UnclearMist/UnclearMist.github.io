@@ -12,7 +12,7 @@ image_view: true
 	}
 	})();">Categories</button>
 
-<div class="nav" id="content">
+<div class="nav" id="content" markdown='1'>
 	{% for category in site.categories %}
 		<a href=#{{ category[0] }}>{{ category[0] }}</a>
 	{% endfor %}
