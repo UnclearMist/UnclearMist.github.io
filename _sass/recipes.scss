@@ -39,12 +39,10 @@
 }
 
 .nav {
-	position: fixed;
-	width: 100%;
-	display: flex;
-	justify-content: center;
+	max-width: 1100px;
 	background: rgba(255, 255, 255, .9);
-	z-index: 999;
+	padding: 0 30px 50px 30px;
+	margin: 0 auto;
 
 	a {
 		display: inline-block;
@@ -55,12 +53,8 @@
 		letter-spacing: 1px;
 		font-size: .9em;
 
-		&.active {
-			color: #ff6200;
-		}
-
 		&:hover {
-			color: #000;
+			color: #ff6200;
 		}
 	}
 }
