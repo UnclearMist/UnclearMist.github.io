@@ -3,6 +3,8 @@ title: Recipes
 image_view: true
 ---
 
+<h1>Recipes</h1>
+
 <button class="collapsible" id="content">Categories</button>
 
 <div class="nav" id="contentdata" markdown='1'>
@@ -10,8 +12,6 @@ image_view: true
 		<a href=#{{ category[0] }}>{{ category[0] }}</a>
 	{% endfor %}
 </div>
-
-<h1>Recipes</h1>
 
 {% if page.image_view %}
 	{% for category in site.categories %}
