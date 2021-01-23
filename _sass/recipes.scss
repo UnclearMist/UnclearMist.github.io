@@ -37,3 +37,31 @@
 		}
 	}
 }
+
+nav {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background: rgba(255, 255, 255, .9);
+	z-index: 999;
+
+	a {
+		display: inline-block;
+		text-decoration: none;
+		padding: 20px 15px;
+		color: rgb(154, 135, 127);
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: .9em;
+
+		&.active {
+			color: #ff6200;
+		}
+
+		&:hover {
+			color: #000;
+		}
+	}
+}
+
