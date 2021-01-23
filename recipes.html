@@ -3,17 +3,9 @@ title: Recipes
 image_view: true
 ---
 
-<button type="button" class="collapsible" onClick="(function(){
-	console.log('Update 1')
-	let content = document.getElementById('content');
-	if (content.style.display === 'block') {
-		content.style.display = 'none';
-	} else {
-		content.style.display === 'block';
-	}
-	})();">Categories</button>
+<button class="collapsible" id="content">Categories</button>
 
-<div class="nav" id="content" markdown='1'>
+<div class="nav" id="contentdata" markdown='1'>
 	{% for category in site.categories %}
 		<a href=#{{ category[0] }}>{{ category[0] }}</a>
 	{% endfor %}
