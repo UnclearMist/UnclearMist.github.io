@@ -59,3 +59,22 @@
 	}
 }
 
+.collapsible {
+	text-decoration: none;
+	padding: 20px 15px;
+	color: rgb(154, 135, 127);
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: .9em;	
+}
+
+.active, .collapsible:hover {
+  background-color: #ff6200;
+}
+
+#content {
+	padding: 0 18px;
+	display: none;
+	overflow: hidden;
+	background-color: #f1f1f1;
+}
