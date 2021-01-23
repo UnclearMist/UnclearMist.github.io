@@ -2,17 +2,16 @@
 title: Recipes
 image_view: true
 ---
-<div class="nav">
+
+<button type="button" class="collapsible">Open Collapsible</button>
+
+<div class="nav" id="content">
 	{% for category in site.categories %}
 		<a href=#{{ category[0] }}>{{ category[0] }}</a>
 	{% endfor %}
 </div>
 
-
-
 <h1>Recipes</h1>
-
-
 
 {% if page.image_view %}
 	{% for category in site.categories %}
@@ -26,3 +25,17 @@ image_view: true
 		</div>
 	{% endfor %}
 {% endif %}
+
+<script>
+	let content = document.getElementById("content")
+	let button = documentgetElementByClassName("collapsible")
+	
+	button.addEventListener("click", function() {
+		this.classList.toggle("active");
+		if (content.style.display === "block") {
+			content.style.display = "none";
+		} else {
+			content.style.display = "block";
+		}
+	});
+</script>
