@@ -18,7 +18,7 @@ recipe:
     * 1 beef stock cube (in 200 ml of boiling water)
     * 1 tbsp of fresh thyme leaves (or dried)
     * 440g of diced beef steak from [Donald Russell](https://www.donaldrussell.com/diced-beef-steak.html)
-    * New potatoes (amount dependant on how many serving)
+    * 500g new potatoes (amount dependant on how many servings)
     * 1 tbsp of paprika
     * A pinch of sea salt and pepper
     * 1 tbsp corn starch
