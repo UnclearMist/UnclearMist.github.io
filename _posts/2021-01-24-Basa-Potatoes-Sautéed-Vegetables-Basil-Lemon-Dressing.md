@@ -3,7 +3,7 @@ date: 2021-01-24
 title: Basa Fillet with Potatoes, Sautéed Vegetables, and a Basil and Lemon Dressing 
 categories:
   - Fish
-featured_image: /images/Basa-potatoes-veg-basil-img1.jpg
+featured_image: /images/Basa-potatoes-veg-basil-img1.JPG
 recipe:
   servings: 2 
   prep: 10 minutes
