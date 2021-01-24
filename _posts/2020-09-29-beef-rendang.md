@@ -30,7 +30,7 @@ recipe:
     * 6 tbsp of desicated coconut 
     * 1 tbsp of sugar
     * salt to taste 
-    * 250g of white rice
+    * 1 mug of white rice - [Why do I use mugs as a measure?](https://cookingwithjodes.co.uk/tips%20and%20tricks/2021/01/24/measuring-cooking-rice/)
     * 3 tbsp of desicated coconut
     * The remainder of the coconut milk 
 
