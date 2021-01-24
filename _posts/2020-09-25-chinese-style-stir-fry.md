@@ -11,7 +11,7 @@ recipe:
   prep: 1 hour, 30 minutes
   cook: 25 minutes
   ingredients_markdown: |-
-    * 250g of white rice
+    * 2 mugs of white rice - [Why do I use mugs as a measure?](https://cookingwithjodes.co.uk/tips%20and%20tricks/2021/01/24/measuring-cooking-rice/)
     * 800 ml of cold water
     * A pinch of sea salt
     * 2 carrots
