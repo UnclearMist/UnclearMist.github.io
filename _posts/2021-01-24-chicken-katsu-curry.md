@@ -12,7 +12,7 @@ recipe:
   ingredients_markdown: |-
     * 1 onion, very finely chopped
     * 3 garlic cloves, very finely chopped
-    * 2 thumbsized pieces of geniner, peeled and grated
+    * 2 thumbsized pieces of ginger, peeled and grated
     * 1 tsp turmeric
     * 2 tbsp of medium curry powder
     * 1 tbsp of corn flour (or plain flour)
