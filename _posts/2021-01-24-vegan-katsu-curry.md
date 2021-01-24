@@ -5,7 +5,7 @@ categories:
   - Vegan
   - Vegetarian
   - Curry
-featured_image: /images/Vegan-Katsu-img-1
+featured_image: /images/Vegan-Katsu-img-1.jpg
 recipe:
   servings: 2 
   prep: 15 minutes
