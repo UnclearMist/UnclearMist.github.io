@@ -22,7 +22,7 @@ recipe:
     * 100 ml of coconut milk
     * 1 tsp light soy sauce
     * 1 tsp of sugar
-    * 1 mug of white rice (or 240g) - Why do I use mugs as a measure?
+    * 1 mug of white rice (or 240g) - [Why do I use mugs as a measure?](https://cookingwithjodes.co.uk/tips%20and%20tricks/2021/01/24/measuring-cooking-rice/)
     * 200-300 ml of vegetable oil for shallow frying (depending on size of frying pan)
     * 1 green pepper
     * 1 red pepper
