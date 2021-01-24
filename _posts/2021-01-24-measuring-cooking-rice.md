@@ -9,9 +9,9 @@ recipe:
   prep: 1 minutes
   cook: 15-20 minutes
   ingredients_markdown: |-
-    * 1 pinch of salt
+    * 1 pinch of sea salt
     * 1 standard sized mug of rice (approx. 330ml)
-    * 2 standard sized mugs of cold water
+    * 2 standard sized mug of cold water
 
 
   directions_markdown: |-
