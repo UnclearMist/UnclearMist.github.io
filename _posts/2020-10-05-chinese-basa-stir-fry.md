@@ -20,7 +20,7 @@ recipe:
     * 10 plum tomatoes, cut into halves
     * 3 spring onions, sliced
     * 1 red chilli, finely sliced
-    * 250g white rice
+    * 1 mug white rice - [Why do I use mugs as a measure?](https://cookingwithjodes.co.uk/tips%20and%20tricks/2021/01/24/measuring-cooking-rice/)
     * A pinch of sea salt
     * 2 Basa fillets (or your preferred choice of fish)
 
