@@ -13,7 +13,7 @@ recipe:
   cook: 50 minutes
   ingredients_markdown: |-
     * 1 tbsp vegetable oil
-    * 500g of charlotte (mini) potatoes
+    * 500g new potatoes
     * 1 punnet of mushrooms, halved
     * 10-12 plum tomatoes, halved
     * 1 carrot, sliced
@@ -22,7 +22,7 @@ recipe:
     * 75g smoked chorizo, sliced into small cubes (optional)
     * 1 corn on the cob per person
     * 1-2 tbsp butter (optional)
-    * Smoked paprika
+    * 1 tbsp smoked paprika
     * A pinch of salt and pepper
     * 1 tbsp olive oil
     * A handful of coriander, finley chopped
