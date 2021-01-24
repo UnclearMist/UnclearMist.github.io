@@ -1,6 +1,6 @@
 ---
 date: 2021-01-24
-title: Measuring PAsta
+title: Measuring Pasta
 categories:
   - Tips and Tricks
 featured_image: /images/Pasta-img1.jpg
