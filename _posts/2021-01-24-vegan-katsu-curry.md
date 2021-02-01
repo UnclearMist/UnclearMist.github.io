@@ -11,6 +11,7 @@ recipe:
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
+    * 1 tbsp of vegetable oil
     * 1 onion, very finely chopped
     * 3 garlic cloves, very finely chopped
     * 2 thumbsized pieces of ginger, peeled and grated
